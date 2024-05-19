@@ -1,0 +1,8 @@
+[13-Mar-2024 08:26:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/landingu/cucikarpetsolo.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/cucikarpetsolo.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-May-2024 03:18:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/landingu/cucikarpetsolo.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/cucikarpetsolo.com/wp-includes/widgets/class-wp-widget-block.php on line 17

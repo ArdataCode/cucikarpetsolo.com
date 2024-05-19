@@ -1,0 +1,34 @@
+[13-Mar-2024 08:26:25 Asia/Jakarta] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[13-Mar-2024 08:26:25 Asia/Jakarta] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[13-Mar-2024 08:26:25 Asia/Jakarta] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[13-Mar-2024 08:26:25 Asia/Jakarta] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[13-Mar-2024 08:26:25 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[13-Mar-2024 08:26:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-scripts.php on line 18
+[13-Mar-2024 08:26:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-styles.php on line 18
+[13-Mar-2024 08:26:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/landingu/cucikarpetsolo.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/cucikarpetsolo.com/wp-includes/template-canvas.php on line 12
+[09-May-2024 03:15:48 Asia/Jakarta] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[09-May-2024 03:15:48 Asia/Jakarta] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[09-May-2024 03:15:48 Asia/Jakarta] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[09-May-2024 03:15:48 Asia/Jakarta] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[09-May-2024 03:15:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-http.php on line 11
+[09-May-2024 03:16:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-scripts.php on line 18
+[09-May-2024 03:16:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/cucikarpetsolo.com/wp-includes/class-wp-styles.php on line 18
+[09-May-2024 03:16:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/landingu/cucikarpetsolo.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/cucikarpetsolo.com/wp-includes/template-canvas.php on line 12
